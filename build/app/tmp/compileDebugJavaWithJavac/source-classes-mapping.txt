@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/souvikbiswas/flutter_camera_demo/BuildConfig.java
+ com.souvikbiswas.flutter_camera_demo.BuildConfig
